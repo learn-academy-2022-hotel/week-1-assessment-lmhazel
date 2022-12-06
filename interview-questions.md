@@ -16,7 +16,7 @@ Researched answer: A conditional statement uses if to specify a block of code to
 
 Your answer: Git is the technology that GitHub, a code-sharing platform, uses. Git technology uses terminal to move code around. 
 
-Researched answer: Git is a DevOps tool used for source code management. It is a free and open-source version control system used to handle small to very large projects efficiently. Git is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development. GitHub uses Git technology which is an online software development platform.
+Researched answer: Git is a tool used for managing code. Git is used to tracking changes and allowing for multiple coders to work on the same code. GitHub uses Git technology which is an online software development platform.
 
 2. Which JavaScript operators will return a Boolean value?
 
@@ -34,13 +34,13 @@ Researched answer:An index is the locatiion of the variable in an array going fr
 
 Your answer: An array is a list of variables such as names or numbers. A string is a one or more elements enclosed in quotation marks. They are both forms of data and can be manipulated using code. 
 
-Researched answer: An array used to store multiple values in a single variable while a string is a variable that consists of one or more letters, numbers, or symbols. They are similar because they contain data that can be manipulated by code. 
+Researched answer: An array is used to store multiple values in a single variable while a string is a variable that consists of one or more letters, numbers, or symbols. They are similar because they contain data that can be manipulated by code. 
 
 5. Give a brief description of proper pair programming techniques. What are the roles of each person?
 
 Your answer: Pair programming is a technique in which two coders are working on the same coding project. There is the "driver" who is the one typing out the code in accordance to the "navigator" who is deciding on the final code. Both coders are collaborating with eachout though on ideas for the code. 
 
-Researched answer: Pair programming is an agile software development technique in which two programmers work together at one workstation. The driver writes code while the other, the navigator reviews each line of code as it is typed in. The two programmers switch roles frequently.
+Researched answer: Pair programming is a technique in which two programmers work together on one coding project. The driver writes code while the other, the navigator reviews each line of code as it is typed. Occasioanlly, the two coders switch roles.
 
 ## Looking Ahead: Terms for Next Week
 
